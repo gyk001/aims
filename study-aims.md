@@ -14,4 +14,10 @@ http://xiaorui.cc/2016/01/07/从kibana迁移到grafana作为elasticsearch的前�
 * grafana
 * Influxdb
 
+# 待解决问题
+
+## 环境
+* Go2Shell 不兼容新版iterm2
+* 没有翻墙服务器了
+
 
