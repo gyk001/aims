@@ -32,3 +32,4 @@ http://xiaorui.cc/2016/01/07/从kibana迁移到grafana作为elasticsearch的前�
 * spring doc 翻译？
 * map pageable
 * spring proxy 二次代理问题分析
+* hexo-qiniu-sync优化
